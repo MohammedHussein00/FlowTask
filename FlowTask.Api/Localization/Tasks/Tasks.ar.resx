@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="TaskCreated"    xml:space="preserve"><value>تم إنشاء المهمة بنجاح.</value></data>
+  <data name="TaskUpdated"    xml:space="preserve"><value>تم تحديث المهمة بنجاح.</value></data>
+  <data name="TaskDeleted"    xml:space="preserve"><value>تم حذف المهمة بنجاح.</value></data>
+  <data name="TaskAssigned"   xml:space="preserve"><value>تم تعيين المستخدم للمهمة.</value></data>
+  <data name="TaskUnassigned" xml:space="preserve"><value>تم إزالة المستخدم من المهمة.</value></data>
+  <data name="TaskNotFound"   xml:space="preserve"><value>المهمة غير موجودة.</value></data>
+  <data name="ListNotFound"   xml:space="preserve"><value>القائمة غير موجودة.</value></data>
+</root>

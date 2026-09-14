@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="NotFound"      xml:space="preserve"><value>{0} introuvable.</value></data>
+  <data name="Created"       xml:space="preserve"><value>{0} créé avec succès.</value></data>
+  <data name="Updated"       xml:space="preserve"><value>{0} mis à jour avec succès.</value></data>
+  <data name="Deleted"       xml:space="preserve"><value>{0} supprimé avec succès.</value></data>
+  <data name="ServerError"   xml:space="preserve"><value>Une erreur inattendue s'est produite.</value></data>
+  <data name="Conflict"      xml:space="preserve"><value>{0} existe déjà.</value></data>
+  <data name="InvalidInput"  xml:space="preserve"><value>Des erreurs de validation se sont produites.</value></data>
+</root>

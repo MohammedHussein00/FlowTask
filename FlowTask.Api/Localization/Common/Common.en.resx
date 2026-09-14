@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="NotFound"      xml:space="preserve"><value>{0} not found.</value></data>
+  <data name="Created"       xml:space="preserve"><value>{0} created successfully.</value></data>
+  <data name="Updated"       xml:space="preserve"><value>{0} updated successfully.</value></data>
+  <data name="Deleted"       xml:space="preserve"><value>{0} deleted successfully.</value></data>
+  <data name="ServerError"   xml:space="preserve"><value>An unexpected error occurred.</value></data>
+  <data name="Conflict"      xml:space="preserve"><value>{0} already exists.</value></data>
+  <data name="InvalidInput"  xml:space="preserve"><value>One or more validation errors occurred.</value></data>
+  <data name="PasswordRequiresSpecialChar" xml:space="preserve"><value>Password must contain a special character.</value></data>
+
+</root>

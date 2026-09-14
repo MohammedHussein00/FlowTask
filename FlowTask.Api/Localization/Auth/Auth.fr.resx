@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="LoginSuccess"         xml:space="preserve"><value>Connexion réussie.</value></data>
+  <data name="RegisterSuccess"      xml:space="preserve"><value>Inscription réussie.</value></data>
+  <data name="InvalidCredentials"   xml:space="preserve"><value>Email ou mot de passe invalide.</value></data>
+  <data name="AccountLocked"        xml:space="preserve"><value>Compte verrouillé. Réessayez plus tard.</value></data>
+  <data name="EmailAlreadyExists"   xml:space="preserve"><value>Cet email est déjà enregistré.</value></data>
+  <data name="PasswordMismatch"     xml:space="preserve"><value>Les mots de passe ne correspondent pas.</value></data>
+  <data name="Unauthorized"         xml:space="preserve"><value>Vous n'êtes pas autorisé.</value></data>
+  <data name="TokenExpired"         xml:space="preserve"><value>Votre session a expiré. Veuillez vous reconnecter.</value></data>
+</root>

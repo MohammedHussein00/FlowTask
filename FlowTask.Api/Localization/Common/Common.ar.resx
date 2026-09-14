@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="NotFound"      xml:space="preserve"><value>لم يتم العثور على {0}.</value></data>
+  <data name="Created"       xml:space="preserve"><value>تم إنشاء {0} بنجاح.</value></data>
+  <data name="Updated"       xml:space="preserve"><value>تم تحديث {0} بنجاح.</value></data>
+  <data name="Deleted"       xml:space="preserve"><value>تم حذف {0} بنجاح.</value></data>
+  <data name="ServerError"   xml:space="preserve"><value>حدث خطأ غير متوقع.</value></data>
+  <data name="Conflict"      xml:space="preserve"><value>{0} موجود بالفعل.</value></data>
+  <data name="InvalidInput"  xml:space="preserve"><value>حدث خطأ في التحقق من البيانات.</value></data>
+</root>

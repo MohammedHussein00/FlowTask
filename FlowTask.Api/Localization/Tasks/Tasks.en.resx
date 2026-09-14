@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="TaskCreated"    xml:space="preserve"><value>Task created successfully.</value></data>
+  <data name="TaskUpdated"    xml:space="preserve"><value>Task updated successfully.</value></data>
+  <data name="TaskDeleted"    xml:space="preserve"><value>Task deleted successfully.</value></data>
+  <data name="TaskAssigned"   xml:space="preserve"><value>User assigned to task.</value></data>
+  <data name="TaskUnassigned" xml:space="preserve"><value>User removed from task.</value></data>
+  <data name="TaskNotFound"   xml:space="preserve"><value>Task not found.</value></data>
+  <data name="ListNotFound"   xml:space="preserve"><value>List not found.</value></data>
+</root>

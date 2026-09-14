@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="FlowTask.Api/FlowTask.Api.csproj" />
+  <Project Path="FlowTask.Application/FlowTask.Application.csproj" />
+  <Project Path="FlowTask.Contracts/FlowTask.Contracts.csproj" />
+  <Project Path="FlowTask.Domain/FlowTask.Domain.csproj" />
+  <Project Path="FlowTask.Infrastructure/FlowTask.Infrastructure.csproj" />
+  <Project Path="FlowTask.IntegrationTests/FlowTask.IntegrationTests.csproj" />
+  <Project Path="FlowTask.Shared/FlowTask.Shared.csproj" />
+  <Project Path="FlowTask.UnitTests/FlowTask.UnitTests.csproj" />
+</Solution>
