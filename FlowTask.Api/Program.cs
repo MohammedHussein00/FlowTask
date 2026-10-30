@@ -48,7 +48,7 @@ builder.Services.AddCors(options =>
         policy.WithOrigins(
                 builder.Configuration
                     .GetSection("Cors:Origins")
-                    .Get<string[]>() ?? ["http://localhost:4200"])
+                    .Get<string[]>() ?? ["http://localhost:4200","https://flowtask-front.vercel.app"])
               .AllowAnyMethod()
               .AllowAnyHeader()
               .AllowCredentials()));
